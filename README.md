@@ -12,7 +12,7 @@ The link for the original project is [here.](https://grail.cs.washington.edu/pro
 
 **3. Open the Notebook:**
   - After the upload, the notebook will appear in the Colab interface. Click to open it.
-  - Adjust Runtime Settings (If Necessary): For GPU/TPU or specific Python version, go to the menu, select ```Runtime > Change runtime type```, choose settings, and save.
+  - Adjust Runtime Settings (If Necessary): For GPU/TPU or specific Python version, go to the menu, select ```Runtime > Change runtime type```, choose ```settings```, and ```save```.
 
 **4. Run the Notebook:**
   - Execute cells individually using the ```Run``` button or ```Shift + Enter```.
