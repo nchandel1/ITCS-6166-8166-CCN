@@ -20,3 +20,18 @@ The link for the original project is [here.](https://grail.cs.washington.edu/pro
 
 **5. Auto-Installation of Dependencies:**
   - The notebook has code that will install any required libraries when you run the cells containing installation commands.
+
+
+# Results:
+
+
+https://github.com/nchandel1/ITCS-6166-8166-CCN/assets/153453695/85e1c801-f864-4a6f-a0de-bfe01d9ff64c
+
+
+
+https://github.com/nchandel1/ITCS-6166-8166-CCN/assets/153453695/b6dd2743-35b1-4e04-abf7-d25b1786ffa3
+
+
+
+https://github.com/nchandel1/ITCS-6166-8166-CCN/assets/153453695/77566cc6-bb73-4a99-9846-bc523539b42e
+
