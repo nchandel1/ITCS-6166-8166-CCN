@@ -1,6 +1,6 @@
 # ITCS-6166-8166-CCN
 This is a repository for the final project of **Group 12** for the course **ITCS 6166/8166 (Computer Communication and Networks)** under the guidance of **Dr. Pu Wang**. It has detailed instructions on how to run the project using Google Colab.
-We recreated the results of the project **```HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video (Weng et al., 2022)```**
+We recreated the results of the project **HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video (Weng et al., 2022)**
 The link for the original project is [here.](https://grail.cs.washington.edu/projects/humannerf/)
 
 # Instructions on how to run the Jupyter Notebook:
