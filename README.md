@@ -38,6 +38,17 @@ https://github.com/nchandel1/ITCS-6166-8166-CCN/assets/153453695/77566cc6-bb73-4
 
 
 # Webpage to stream results (using Streamlit)
+
+Please check the file ```StreamCast.mp4``` for a video demonstration of the webpage. And the folder ```webpage``` for the source files.
+**App Features | Webpage Content**
+
+The webpage provides an overview of our project, its purpose, and the technologies used. It connects to a Streamlit server that hosts a video showcasing our project results. The video is served using Flask to ensure a smooth streaming experience.
+
+**How It Works**
+- **Streamlit Server**: The Streamlit server is responsible for displaying the video using the Streamlit library. It acts as the backend for the application.
+- **Flask Server**: A Flask server is employed to serve the video content as a stream. This ensures efficient and seamless streaming to the client-side.
+- **HTML Client**: This HTML page uses the <video> tag to embed the video player. The video is sourced from the Flask server, and users can easily play and control the video using the provided controls.
+
 ![alt text](https://github.com/nchandel1/ITCS-6166-8166-CCN/blob/main/Screenshot%201.png)
 
 
