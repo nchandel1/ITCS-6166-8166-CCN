@@ -1,0 +1,2 @@
+output.gif filter=lfs diff=lfs merge=lfs -text
+ScreenCast.gif filter=lfs diff=lfs merge=lfs -text

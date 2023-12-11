@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <title>Streamlit Video Client</title>
+</head>
+<body>
+
+<div>
+    <h2>Welcome to the Streamlit Video Client App for Group 12</h2>
+    <p>This is a webpage for the final project of Group 12 for the course <strong>ITCS 6166/8166 (Computer Communication and Networks)</strong> under the guidance of <strong>Dr. Pu Wang</strong>. <a href="https://github.com/nchandel1/ITCS-6166-8166-CCN">This</a> link has detailed instructions on how to run the project using Google Colab. We recreated the results of the project HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video (Weng et al., 2022).</p>
+    <p>This simple webpage connects to a Streamlit server that hosts a video. The video is served using Flask to ensure smooth streaming.</p>
+    
+    <h3>How it works:</h3>
+    <ol>
+        <li>The Streamlit server displays the video using the Streamlit library.</li>
+        <li>The Flask server serves the video content as a stream.</li>
+        <li>This HTML page uses the <code>&lt;video&gt;</code> tag to display and control the video.</li>
+    </ol>
+
+    <p>Click play and enjoy the video!</p>
+</div>
+
+<video width="640" height="480" controls>
+    <source src="http://localhost:8502/get_video" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+</body>
+</html>
