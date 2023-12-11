@@ -35,3 +35,13 @@ https://github.com/nchandel1/ITCS-6166-8166-CCN/assets/153453695/b6dd2743-35b1-4
 
 https://github.com/nchandel1/ITCS-6166-8166-CCN/assets/153453695/77566cc6-bb73-4a99-9846-bc523539b42e
 
+
+
+# Webpage to stream results (using Streamlit)
+![alt text](https://github.com/nchandel1/ITCS-6166-8166-CCN/blob/main/Screenshot%201.png)
+
+
+
+![alt text](https://github.com/nchandel1/ITCS-6166-8166-CCN/blob/main/Screenshot%202.png)
+
+
