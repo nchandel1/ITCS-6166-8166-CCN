@@ -49,6 +49,11 @@ The webpage provides an overview of our project, its purpose, and the technologi
 - **Flask Server**: A ```Flask``` server is employed to serve the video content as a stream. This ensures efficient and seamless streaming to the client-side.
 - **HTML Client**: This ```HTML``` page uses the ```video``` tag to embed the video player. The video is sourced from the Flask server, and users can easily play and control the video using the provided controls.
 
+**How To Run:**
+- Make sure you have ```Streamlit``` installed.
+- Open ```Terminal``` and redirect to the directory with the webpage files. Type ```streamlit run server.py```.
+- Then open ```client.html```.
+
 **Look at the screenshots below:**
 
 ![alt text](https://github.com/nchandel1/ITCS-6166-8166-CCN/blob/main/Screenshot%201.png)
